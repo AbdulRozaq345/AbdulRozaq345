@@ -32,3 +32,9 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/renka_45446)
 
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **AikoCare** | AI-based health dashboard & mental health assistant. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | [Live Demo](https://github.com/AbdulRozaq345/AikoCare) |
+| **NexxaCodeID** | Modern agency portfolio with minimalist design. | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Visit Site](https://github.com/AbdulRozaq345/NexxaCodeID) |
