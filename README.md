@@ -12,6 +12,8 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
+### 🐍 My Contribution Snake
+![Snake Animation](https://raw.githubusercontent.com/AbdulRozaq345/AbdulRozaq345/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🛠️ Tech Stack
