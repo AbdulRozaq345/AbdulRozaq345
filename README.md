@@ -25,3 +25,5 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
 
 ### 📫 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/renka_45446)
+
+![Snake Animation](https://raw.githubusercontent.com/AbdulRozaq345/AbdulRozaq345/output/github-contribution-grid-snake.svg)
