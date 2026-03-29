@@ -4,6 +4,7 @@
 
 I'm a **Full-Stack Developer** passionate about building modern web apps. Currently focusing on mastering React, Next.js, and Laravel to build something epic!
 
+[![Piala GitHub](https://github-readme-stats.vercel.app/api/trophies?username=AbdulRozaq345&theme=tokyonight)](https://github.com/ryo-ma/github-readme-stats)
 ---
 
 ### 📊 My GitHub Stats & Languages
