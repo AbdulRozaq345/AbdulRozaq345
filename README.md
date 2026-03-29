@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![react, nextjs, php, javascript, laravel, python](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight)
 <!--
 **AbdulRozaq345/AbdulRozaq345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
