@@ -12,6 +12,7 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulRozaq345&show_icons=true&theme=tokyonight&hide_border=true" alt="AbdulRozaq Stats" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRozaq345&theme=tokyonight&hide_border=true)
 
 ### 🐍 My Contribution Snake
