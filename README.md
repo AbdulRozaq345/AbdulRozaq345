@@ -4,11 +4,7 @@
 
 I'm a **Full-Stack Developer** passionate about building modern web apps. Currently focusing on mastering React, Next.js, and Laravel to build something epic!
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdulRozaq345&theme=tokyonight&no-bg=true&margin-w=15" alt="AbdulRozaq Trophies" />
-  </a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRozaq345&theme=tokyonight&hide_border=true)
 ---
 
 ### 📊 My GitHub Stats & Languages
