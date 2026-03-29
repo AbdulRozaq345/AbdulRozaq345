@@ -8,8 +8,8 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
 
 ### 📊 My GitHub Stats & Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRozaq345&show_icons=true&theme=tokyonight&hide_border=true" alt="AbdulRozaq Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRozaq345&show_icons=true&theme=tokyonight&hide_border=true" alt="AbdulRozaq Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
