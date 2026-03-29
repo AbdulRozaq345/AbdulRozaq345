@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Developer** passionate about building modern web apps. Currently focusing on mastering React, Next.js, and Laravel to build something epic!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRozaq345&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 📊 My GitHub Stats & Languages
@@ -12,6 +12,7 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdulRozaq345&show_icons=true&theme=tokyonight&hide_border=true" alt="AbdulRozaq Stats" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdulRozaq345&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulRozaq345&theme=tokyonight&hide_border=true)
 
 ### 🐍 My Contribution Snake
 ![Snake Animation](https://raw.githubusercontent.com/AbdulRozaq345/AbdulRozaq345/output/github-contribution-grid-snake.svg)
