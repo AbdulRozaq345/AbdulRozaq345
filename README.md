@@ -1,6 +1,6 @@
 ## Hi there, I'm AbdulRozaq 👋
 
-### ⚡ "Debugging is like being the detective in a crime movie where you are also the murderer." 😂 💦
+### ⚡ "Debugging is like being the detective in a crime movie where you are also the murderer." 
 
 I'm a **Full-Stack Developer** passionate about building modern web apps. Currently focusing on mastering React, Next.js, and Laravel to build something epic!
 
@@ -24,4 +24,4 @@ I'm a **Full-Stack Developer** passionate about building modern web apps. Curren
 ---
 
 ### 📫 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/USERNAME_IG_LO)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/renka_45446)
