@@ -13,7 +13,7 @@ Hi there, I'm AbdulRozaq 👋<br>⚡ "Debugging is like being the detective in a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdulRozaq345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdulRozaq345&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AbdulRozaq345&theme=radical&no-bg=true&column=7)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbdulRozaq345&limit=5&theme=dark&combine_all_yearly_contributions=true)
